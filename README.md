@@ -1,2 +1,2 @@
-# backup-sys
-backup arcolinux config
+
+Hi, this is my first dotfile configuration
